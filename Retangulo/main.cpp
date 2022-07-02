@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-    //double base, altura, area, perimetro, diagonal;
+    double base, altura, area, perimetro, diagonal;
 
     cout << "Base do retangulo: ";
     cin >> base;
